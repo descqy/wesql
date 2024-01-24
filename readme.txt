@@ -5,4 +5,4 @@
 3.project 0（练手）：https://15445.courses.cs.cmu.edu/spring2023/project0/
 4.学校官方资源： https://github.com/cmu-db/bustub
     规范篇
-5.google C++ style: https://google.github.io/styleguide/cppguide.html#Self_contained_Headers
+1.google C++ style: https://google.github.io/styleguide/cppguide.html#Self_contained_Headers
